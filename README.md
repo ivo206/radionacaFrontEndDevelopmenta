@@ -1,2 +1,2 @@
-# radionacaFrontEndDevelopmenta
+# radionicaFrontEndDevelopmenta
 Front-end development workshop
